@@ -1,0 +1,9 @@
+.fullscreen {
+  width: 100vw;  /* Full viewport width */
+  height: 100vh; /* Full viewport height */
+  overflow-x: hidden;
+  margin: 0 auto; /* Center horizontally with auto margins */
+  padding: 10px;  /* Adjust padding as needed */
+  box-sizing: border-box;
+
+}
